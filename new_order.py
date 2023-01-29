@@ -9,5 +9,5 @@ def subtract():
 def multiply():
 	pass
 
-def divide_premium():
+def divide():
 	pass
