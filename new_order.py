@@ -11,3 +11,6 @@ def multiply():
 
 def divide_pre():
 	pass
+
+def hello():
+	pass
