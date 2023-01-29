@@ -5,3 +5,6 @@ def add():
 
 def subtract():
 	pass
+
+def divide():
+	pass
